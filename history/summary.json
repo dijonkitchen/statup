@@ -6,17 +6,15 @@
     "slug": "dijonkitchen-org",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 291,
-    "timeWeek": 300,
-    "timeMonth": 306,
+    "timeDay": 336,
+    "timeWeek": 324,
+    "timeMonth": 308,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2023-12-09": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
