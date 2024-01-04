@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dijonkitchen.org.ico",
     "slug": "dijonkitchen-org",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 368,
-    "timeWeek": 361,
-    "timeMonth": 364,
-    "timeYear": 316,
+    "time": 317,
+    "timeDay": 681,
+    "timeWeek": 419,
+    "timeMonth": 382,
+    "timeYear": 317,
     "dailyMinutesDown": {}
   }
 ]
