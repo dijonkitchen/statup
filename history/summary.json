@@ -4,17 +4,19 @@
     "url": "https://www.dijonkitchen.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dijonkitchen.org.ico",
     "slug": "dijonkitchen-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 282,
-    "timeWeek": 361,
-    "timeMonth": 364,
+    "timeDay": 303,
+    "timeWeek": 356,
+    "timeMonth": 363,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   }
 ]
