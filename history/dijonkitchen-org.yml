@@ -1,7 +1,7 @@
 url: https://www.dijonkitchen.org/
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2025-12-04T23:01:12.346Z
+status: down
+code: 500
+responseTime: 225
+lastUpdated: 2025-12-05T08:53:56.861Z
 startTime: 2022-06-30T13:57:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
