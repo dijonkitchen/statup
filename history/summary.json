@@ -19,5 +19,41 @@
       "2025-12-05": 27,
       "2026-10-11": 922
     }
+  },
+  {
+    "name": "Bare domain (dijonkitchen.org)",
+    "url": "https://dijonkitchen.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/dijonkitchen.org.ico",
+    "slug": "bare-domain-dijonkitchen-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Feed",
+    "url": "https://www.dijonkitchen.org/feed.xml",
+    "icon": "https://icons.duckduckgo.com/ip3/www.dijonkitchen.org.ico",
+    "slug": "feed",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
