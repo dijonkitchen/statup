@@ -10,6 +10,15 @@ sites:
     url: https://dijonkitchen.org/
   - name: Feed
     url: https://www.dijonkitchen.org/feed.xml
+  # Old domains forward to the site via Porkbun URL forwarding
+  - name: dijonkitchen.com redirect
+    url: https://www.dijonkitchen.com/
+  - name: dijonkitchen.net redirect
+    url: https://www.dijonkitchen.net/
+  - name: Bare dijonkitchen.com redirect
+    url: https://dijonkitchen.com/
+  - name: Bare dijonkitchen.net redirect
+    url: https://dijonkitchen.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
